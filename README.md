@@ -32,3 +32,7 @@ Programmatic data cleaning process:
 - Define: convert the assessments into defined cleaning tasks.
 - Code: convert those definitions to code and run that code.
 - Test: test your dataset, visually or with code, to make sure cleaning operations worked.
+
+#### Data files
+- Data : This folder has the zip file to start working through the notebook
+- Data_Proccessed : Containes all the files after working through the notebook
